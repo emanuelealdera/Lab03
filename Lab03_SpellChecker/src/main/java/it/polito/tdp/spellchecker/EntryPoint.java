@@ -23,7 +23,7 @@ public class EntryPoint extends Application {
         stage.show();
         
         FXMLController controller = new FXMLController();
-        controller.initialize();
+        controller.initialize();;
         
     }
 
